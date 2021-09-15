@@ -1,0 +1,6 @@
+Sep 10 2021 22:47:35;INFO;f3 (21220):Running a thread
+Sep 10 2021 22:47:35;ERROR;f3 (21220):My int is 123
+Sep 10 2021 22:49:38;INFO;f3 (15976):Running a thread
+Sep 10 2021 22:49:38;ERROR;f3 (15976):My int is 123
+Sep 10 2021 22:49:38;INFO;f3 (8472):Running a thread
+Sep 10 2021 22:49:38;ERROR;f3 (8472):My int is 123

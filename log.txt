@@ -1,0 +1,9 @@
+Sep 10 2021 22:47:35;DEBUG;f2 (6100):Running a thread
+Sep 10 2021 22:47:35;INFO; (13212):Running a thread
+Sep 10 2021 22:47:35;WARNING;f2 (6100):Time spent in the thread: 10 seconds
+Sep 10 2021 22:49:38;DEBUG;f2 (17440):Running a thread
+Sep 10 2021 22:49:38;WARNING;f2 (17440):Time spent in the thread: 10 seconds
+Sep 10 2021 22:49:38;INFO; (11464):Running a thread
+Sep 10 2021 22:49:38;DEBUG;f2 (10024):Running a thread
+Sep 10 2021 22:49:38;WARNING;f2 (10024):Time spent in the thread: 10 seconds
+Sep 10 2021 22:49:38;INFO; (1492):Running a thread
